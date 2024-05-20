@@ -1,8 +1,8 @@
 package com.qacart.todo.enums;
 
 public enum UserType {
-    CRMUser("nasfour", "Password@02"),
-    CRMUserUAT("nasfour", "Password@0100")
+    CRMUser("test", "test"),
+    CRMUserUAT("test", "test")
     ;
 
     public final String userName;
